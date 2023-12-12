@@ -11,7 +11,7 @@ from discord.ext import commands    # Bot class and utils
 ################################################################################
 ############################### HELPER FUNCTIONS ###############################
 ################################################################################
- 
+#aici adaug un mesaj de modificare 
 # log_msg - fancy print
 #   @msg   : string to print
 #   @level : log level from {'debug', 'info', 'warning', 'error'}
